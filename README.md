@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Currently drowning in code and grinding to become someone!<br>🌱 Studying at the Coding Dojo.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-callahan-9a08b7254/) 
 
